@@ -5,5 +5,3 @@
   2. file containing the moves that will take place in order during the game
   from the above, it means that the progress of the game is set according to the files, before the game even starts, 
   i.e. the files determines the course of the game.
-  
-# C++
